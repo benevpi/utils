@@ -3,6 +3,7 @@ cmake_minimum_required(VERSION 3.10...3.27)
 include(GNUInstallDirs)
 
 add_subdirectory(examples)
+add_subdirectory(mymodule)
 
 #set project name
 project(piolib)
